@@ -1,0 +1,1 @@
+In this project we have interagete a logic which will calculate the Range of two diffrent type of battery pack [61kWh and 49kWh] According to the user selection. We provided 3 diffrent scenarios. City,Highway and expressway driving stlye. the Range also depends upon outside temp. , we have also integrated that logic in this.
